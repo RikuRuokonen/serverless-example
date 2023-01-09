@@ -9,7 +9,7 @@
   "author": "Riku Ruokonen",
   "license": "ISC",
   "devDependencies": {
-    "serverless-offline": "^5.12.1"
+    "serverless-offline": "^12.0.4"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
